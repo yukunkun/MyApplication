@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mTextView = findViewById(R.id.tv);
+
         mTextView.setText("89080");
     }
 }

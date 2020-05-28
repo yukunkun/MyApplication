@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
         mTextView = findViewById(R.id.tv);
 
-        mTextView.setText("近似的加送");
+        mTextView.setText("2334");
     }
 }

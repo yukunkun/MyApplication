@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
         mTextView = findViewById(R.id.tv);
 
-        mTextView.setText("456");
+        mTextView.setText("123456");
     }
 }
